@@ -1,0 +1,17 @@
+# Git
+.git/
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+
+
+# Build output
+dist/
+build/
+
+# OS
+.DS_Store
