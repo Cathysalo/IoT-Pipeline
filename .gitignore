@@ -15,3 +15,17 @@ build/
 
 # OS
 .DS_Store
+
+# Python virtual environment
+venv/
+tf-venv/
+.env
+__pycache__/
+# Virtual environments
+venv/
+tf-venv/
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
+.env

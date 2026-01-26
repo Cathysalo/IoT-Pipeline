@@ -34,4 +34,7 @@ The implementation will be expanded gradually during the course.
 
 ## Repository Structure
 
-To be updated
+├── ML-AI-task/     # AI/ML-related task for the course
+
+
+Additional folders and documentation will be added as the course progresses.
