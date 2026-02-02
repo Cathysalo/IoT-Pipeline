@@ -88,7 +88,8 @@ Through this project, I aim to:
 
 ```text
 .
-├── ML-AI-task/           # AI / ML coursework for the course
+├── ml-ai-tasks/          # AI / ML coursework for the course
+├── ui-ux-task/           #  UI / UX coursework for the course
 ├── docs/                 # Architecture descriptions and documentation
 ├── tests/                # Testing notes and evidence
 ├── security/             # Security-related notes and decisions
@@ -100,7 +101,6 @@ Additional folders and documents will be added as the course progresses.
 
 - [x] Repository structure set up
 - [x] Project overview documented
-- [ ] IoT pipeline implementation
 - [ ] Testing documentation
 - [ ] Security documentation
 - [ ] Deployment and presentation materials
