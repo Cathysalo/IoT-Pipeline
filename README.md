@@ -125,7 +125,7 @@ Technologies and tools used in this project will be documented gradually and may
 
 ---
 
-## Notes for the Lecturer
+## Notes for the Teacher
 
 This repository contains all public coursework required for the **Implementing IoT Pipeline** course.
 
