@@ -29,3 +29,5 @@ tf-venv/
 __pycache__/
 .ipynb_checkpoints/
 .env
+Data/
+ml-test-1/
