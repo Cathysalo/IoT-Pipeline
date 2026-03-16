@@ -27,7 +27,7 @@ jupyter_client==8.8.0
 jupyter_core==5.9.1
 kagglehub==1.0.0
 kagglesdk==0.1.16
-keras==3.13.1
+keras==3.13.2
 kiwisolver==1.4.9
 libclang==18.1.1
 Markdown==3.10.1
