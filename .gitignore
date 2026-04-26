@@ -31,3 +31,5 @@ __pycache__/
 .env
 Data/
 ml-test-1/
+.requirements.txt
+requirements.txt

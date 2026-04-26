@@ -20,9 +20,11 @@ Each tag represents a snapshot of the repository at the time of submission.
 
 - **ui-ux_task**  
   UI/UX task (All design Tasks)
+- Supercomputing basics task
+- Linux_basic tasks
+
 
 ## Notes
 
 - Tags are named after the submitted folder or task.
 - Bonus work was tagged separately
-- Tags are not modified after submission.
